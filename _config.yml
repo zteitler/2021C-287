@@ -1,0 +1,39 @@
+title: Math 287, Fall 2021
+email: "zteitler@boisestate.edu"
+author: Zach Teitler
+description: >-
+  Course site for Math 287, Fall 2021, at Boise State University,
+  taught by Zach Teitler
+url: "https://zteitler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/2021C-287" # the subpath of your site, e.g. /blog
+#twitter_username: jekyllrb
+github_username:  zteitler
+
+repository: "zteitler/2021C-287"
+
+theme: minima
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+# Build settings
+#plugins:
+#  - jekyll-feed
+#  - jekyll-sitemap
+
+# A list of the pages to display in the navigation bar
+header_pages:
+  - syllabus.md
+  - calendar.md
+  - quizzesexams.md
+
+collections:
+  quizzes:
+    output: true
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock

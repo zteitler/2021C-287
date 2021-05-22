@@ -1,0 +1,20 @@
+---
+layout: page
+---
+
+<h2>{{ page.coursename }}</h2>
+
+{%- if page.featureimage and page.featureimage-alt -%}
+<div style="float:right; width:50%; margin-left:2%">
+<img src="{{page.featureimage | prepend:"/assets/img/" | relative_url}}"
+     alt="{{page.featureimage-alt}}"
+     title="{{page.featureimage-alt}}"
+     align="right" />
+{%- if page.featureimage-attrib -%}
+<div style="clear:both"></div>
+<div align="right" style="color:gray; font-size:small; font">{{page.featureimage-attrib}}</div>
+{%- endif -%}
+</div>
+{%- endif -%}
+
+{{ content }}
