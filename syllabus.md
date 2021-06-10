@@ -20,7 +20,7 @@ mathjax: true
 **Course Title**:
 : Mathematical Proofs & Methods
 
-**Course Description**:
+**Catalog Statement**:
 : An introduction to formal mathematical language, mathematical experimentation,
   mathematical proofs, mathematical communication, and technologies supporting the above.
   Core content includes sets and functions, elementary number theory and induction,
@@ -66,30 +66,150 @@ mathjax: true
 **Zoom meeting ID**:
 : TBA
 
+## What this course is
+
+Higher mathematics requires a significantly different way of thinking.
+There is a much greater focus on the truth, or falsehood,
+of statements and connections between facts.
+There is much less focus on algorithms (methods for doing problems).
+
+Some students think math is merely a list of procedures--a succession of algorithms
+for "how to do" things.
+Proof is a major part of mathematics that is not at all like that conception of mathematics.
+So, you may need to change your attitude about what math really is.
+It is hard for anyone to change their attitude about anything,
+so this part may be difficult for you.
+
+This course is an introduction to higher-level, abstract mathematics:
+the language of mathematics; logic; definitions;
+topics such as sets, functions, relations, convergence, and series;
+and especially, proofs.
+You will get to practice writing formal mathematics (proofs)
+and you will get feedback on your writing.
+
+This will be a challenging course,
+and you should expect to spend a lot of time and effort on it;
+the ultimate responsibility for what you learn is your own.
+I hope you will find that mathematics is broad, rich, interesting, and useful,
+and that you can personally be mathematically creative
+and have a real feeling of accomplishment from it.
+We should also have fun and stretch our brains at the same time,
+which is what I think doing mathematics is all about.
+
+
 
 ## Course Learning Outcomes
 
 By the end of this course, students will be able to:
 
-1. 
+1.  Explore mathematical definitions and evaluate mathematical statements.
 
+2.  Read and write mathematical proofs at an intermediate level.
+
+3.  Demonstrate content knowledge in areas of mathematics including
+    set theory, functions, elementary discrete mathematics, elementary number theory,
+    and elementary continuous mathematics.
+    Recognize connections between these areas.
+
+4.  Use technologies to support mathematical exploration and communication.
+
+These learning outcomes will support students
+in being prepared for upper-division mathematics courses.
 
 
 ## Required Textbook
 
 *The Art of Proof: Basic Training for Deeper Mathematics*
     by Matthias Beck and Ross Geoghegan, 2010,
-    <http://math.sfsu.edu/beck/aop.html/>
+    <http://math.sfsu.edu/beck/aop.html>
 
+You are required to have this book.
+You will need to prepare for class by reading sections from the book before class,
+so that you are ready to learn in class.
+You will need to have the book available during class, to be able to work on exercises
+in groups in class.
+
+You can choose what format of the book will be best for you.
+A PDF version of the book is available [from the authors](http://math.sfsu.edu/beck/aop.html)
+for free (legally!).
+If you want to, you may also order a printed copy of the [published book](https://www.springer.com/us/book/9781441970220).
+
+I recommend downloading the free PDF and also buying a printed copy of the book,
+if you are able to.
+But it is not required.
+If you only use the free PDF, that is completely fine.
 
 
 
 ## Grading
 
+### Components of course grade
+
+Course grades will include participation in class activities, homework,
+a midterm exam, and a final exam.
+
+### Class activities
+
+A significant amount of class time will be spent working in groups
+on activities from the course textbook,
+to practice and learn concepts and skills in the course.
+
+
+### Homework
+
+Homework will consist of weekly assignments.
+These will be individual written assignments so that you can get feedback
+on how you are doing in the course.
+
+
+### Midterm exam
+
+The midterm exam will be an individual written exam.
+
+### Final exam
+
+The final exam will be an individual written exam.
+
+
+## Preparation and participation
+
+### Preparation
+
+Preparation for class includes reading relevant textbook sections before class,
+being ready to learn about that topic in class,
+and knowing what questions you are planning to ask
+about homework or previous topics.
+
+(It's okay if reading the textbook sections before class isn't
+enough to understand the material.
+The point is to read the section in order to be ready to learn about it in class.
+Class discussion of the topic should answer many questions and clarify the reading.
+Following class, please re-read the section to fill in details.)
+
+
+### Participation
+
+Constructive participation includes answering or attempting to answer questions in class,
+asking good questions, and being respectful of others.
+
+
+### Grade
+
+Lack of preparation and participation causes distractions
+and degrades the course experience _for other students in the course_.
+Therefore failure to meet expectations may result in a penalty
+of up to 10% in your overall course grade (at instructor's discretion).
+
+
 
 
 ## Help
 
+
+### Mathematics Department Tutoring
+
+Tutoring for Math 287 is available in MB 136 (computer lab in the Mathematics Building).
+More information will be posted when it is available.
 
 ### University Resources
 
@@ -97,18 +217,17 @@ Boise State University's [The Basics](https://www.boisestate.edu/student-life/ba
 web page has links to many forms of support,
 ranging from academic resources to family, living, and food resources.
 
-The Graduate College has
-[many resources for graduate students](https://www.boisestate.edu/graduatecollege/current-students/)
-such as GradWell,
-the Graduate Student Success Center, and Graduate Writing Consultations,
-as wells as forms, deadlines, and graduation information for graduate students.
 
 Boise State University's
 [Writing Center](https://www.boisestate.edu/writingcenter/)
 may be helpful.
 
+
+### Additional Help
+
 You may reach out to me at any time if there's anything I can help with
 or if there's anything you think I should know.
+
 
 
 ## Important Dates
@@ -116,7 +235,6 @@ or if there's anything you think I should know.
 | Monday | 8/23 | First day of classes | 
 | Monday | 9/3  | Last day to register/add or to drop without a W |
 | Monday | 9/6  | Labor Day. No classes. |
-| Monday | 2/15 | Presidents' Day. No classes. |
 | Friday | 10/29 | Last day to drop with a W or completely withdraw |
 |        | 11/22-28 | Thanksgiving Holiday. No classes. |
 | Friday | 12/10 | Last day of instruction for regular classes |
@@ -155,7 +273,7 @@ or if there's anything you think I should know.
 
 **Communication**:
 : Additional information and updates may be announced in class, sent by email,
-  and/or posted on BlackBoard (<https://blackboard.boisestate.edu/>).
+  and/or posted on Canvas (<https://boisestatecanvas.instructure.com/>).
 
 **Academic Integrity**:
 : Getting answers to homework or exam problems from unauthorized sources
