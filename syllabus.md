@@ -180,17 +180,33 @@ being ready to learn about that topic in class,
 and knowing what questions you are planning to ask
 about homework or previous topics.
 
-(It's okay if reading the textbook sections before class isn't
+It's okay if reading the textbook sections before class isn't
 enough to understand the material.
 The point is to read the section in order to be ready to learn about it in class.
 Class discussion of the topic should answer many questions and clarify the reading.
-Following class, please re-read the section to fill in details.)
+Following class, please re-read the section to fill in details.
 
 
 ### Participation
 
 Constructive participation includes answering or attempting to answer questions in class,
 asking good questions, and being respectful of others.
+
+In most weeks, our class plan will be:
+
+Monday:
+: I will present material and answer questions.
+  I will introduce a new chapter and work some of the problems from the chapter,
+  as demonstrations.
+  There may be some class activities (group work).
+
+Wednesday:
+: I will answer questions.
+  Other than that, the class will be almost entirely activities (group work).
+  Most of the work will be working more problems from the chapter.
+
+There are some exceptions for review and exams,
+and also where some short chapters are combined into a single week to save time.
 
 
 ### Grade
