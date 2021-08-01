@@ -222,6 +222,25 @@ of up to 10% in your overall course grade (at instructor's discretion).
 ## Help
 
 
+### Student times
+
+I am here to support your learning.
+I encourage you to meet with me when you feel that you need support or assistance.
+
+In Fall 2021 I will be available:
+
+**Student drop-in hours:**
+: Thursdays 10:30am-12:30pm
+
+**Student appointment hour:**
+: Thursdays 12:30pm-1:30pm (email me to set up an appointment within this hour in 15-minute segments)
+
+**Additional appointments:**
+: Email me to set up an appointment on other days or times
+
+Student times will be remote via Zoom
+using my **office zoom link** (listed in Canvas, or email me for the link).
+
 ### Mathematics Department Tutoring
 
 Tutoring for Math 287 is available in MB 136 (computer lab in the Mathematics Building).
