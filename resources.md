@@ -66,3 +66,5 @@ We will also use [Zoom](https://boisestate.zoom.us) (Zoom meeting link posted in
 <!-- 5.  [How to Bibliography](https://zteitler.github.io/assets/how-to-bibliography.pdf) -->
 
 6.  [Detexify](https://detexify.kirelabs.org/classify.html)
+
+7.  [Intro to LaTeX by Dr. Trefor Bazett](https://youtu.be/Jp0lPj2-DQA) (video, 19:08)

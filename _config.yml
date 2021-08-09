@@ -25,10 +25,13 @@ kramdown:
 header_pages:
   - syllabus.md
   - calendar.md
-  - quizzesexams.md
+#  - quizzesexams.md
+  - assignments.md
 
 collections:
-  quizzes:
+#  quizzes:
+#    output: true
+  hw:
     output: true
 
 # Exclude from processing.

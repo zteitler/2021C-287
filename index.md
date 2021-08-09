@@ -24,6 +24,8 @@ and modular arithmetic.
 
 ### [Calendar](calendar)
 
-### [WeBWorK](https://calculus.boisestate.edu/webwork2/)
+{%comment%}### [WeBWorK](https://calculus.boisestate.edu/webwork2/){%endcomment%}
+
+### [Assignments](assignments)
 
 ### [Resources](resources)
