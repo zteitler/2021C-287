@@ -161,14 +161,56 @@ Homework will consist of weekly assignments.
 These will be individual written assignments so that you can get feedback
 on how you are doing in the course.
 
+It will consist mostly of problems from the textbook.
+Most homework problems will be to write proofs.
+
+You are strongly encouraged to work collaboratively on homework
+but you must turn in your own solutions.
+
+#### Turning in written assignments
+
+Homework submissions and grading will be paperless.
+You will turn in your homework by uploading PDFs to Gradescope.
+
+#### LaTeX
+
+Part of this class is to learn to
+"technologies to support mathematical exploration and communication".
+The first technology in our list is
+[LaTeX](https://en.wikipedia.org/wiki/LaTeX).
+In our class we'll learn how to use LaTeX to write math documents.
+Your homework will be typed in LaTeX.
+
+LaTeX tutorials are available online, e.g.,
+<https://www.latex-tutorial.com> and <https://www.gnu.org/software/teximpatient/>.
+You may wish to use a free online LaTeX system such as <https://overleaf.com>.
+(Overleaf includes a LaTeX tutorial.)
+I strongly recommend Overleaf for students who are new to LaTeX.
+
+#### Homework format
+
+Use a new page (`\newpage`) for each problem.
+State which question you are answering (textbook section and exercise number)
+and the actual question.
+Then, start your answer in a new paragraph.
+
+For legibility, use the `12pt` option (`\documentclass[12pt]{amsart}`)
+and `\linespread{2.4}`.
+
+
 
 ### Midterm exam
 
-The midterm exam will be an individual written exam.
+The midterm exam will be an individual written exam
+in the 8th week of the semester.
+It will include a component during class time (attendance is required).
+It may include a take-home component (to be announced).
 
 ### Final exam
 
 The final exam will be an individual written exam.
+It will include a component during the scheduled final exam time (attendance is required).
+It may include a take-home component (to be announced).
 
 
 ## Preparation and participation
@@ -245,6 +287,7 @@ using my **office zoom link** (listed in Canvas, or email me for the link).
 
 Tutoring for Math 287 is available in MB 136 (computer lab in the Mathematics Building).
 More information will be posted when it is available.
+
 
 ### University Resources
 
