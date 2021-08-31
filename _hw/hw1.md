@@ -106,7 +106,7 @@ Your homework is to write a proof of the statement.
 3.  Proposition 1.22(ii).
 
 4.  Proposition 1.20. In this problem, the textbook gives a proof.
-    Your homework is to explain the proof in more detail.
+    Your homework is to ~~explain~~ rewrite the proof in more detail.
 
 5.  Proposition 1.14.
     
