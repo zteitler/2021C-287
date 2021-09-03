@@ -148,23 +148,23 @@ or if they were on the homework but you haven't done that problem yet.
     As an experiment, try writing `k^m+1` and `k^{m+1}`.
     The curly braces `{...}` group together terms in LaTeX.
 
-5.  This homework problem has two parts:
+5.  The definition of "gcd" on page 22 of the textbook,
+    in terms of smallest positive integer combination,
+    might be unfamiliar.
+    Soon we'll look again at gcd and relate this definition to the more familiar versions.
+    This homework problem will answer a different question:
+    What does this have to do with induction and the Well Ordering Principle?
+    Why did gcd show up in Chapter 2?
     
-    1.  **Project 2.35**, compute $$\gcd(-4,10)$$, using the definition on page 22,
-        in terms of being the smallest element of the set of $$-4x+10y$$ with integer $$x$$ and $$y$$.
-        
-        (This means (1) state what the value of the gcd is, (2) show that your value
-        is given as an integer combination of $$-4$$ and $$10$$,
-        (3) show that your value is the smallest positive integer combination of $$-4$$ and $$10$$,
-        in other words there's no smaller positive integer in the set of $$-4x+10y$$.)
-        
-        (Only $$\gcd(-4,10)$$, not the rest of the project.)
-    
-    2.  As a thought experiment, let's try defining "gcd of rational numbers" like this.
+    1.  As a thought experiment, let's try defining "gcd of rational numbers" like this.
         Suppose $$a$$ and $$b$$ are rational numbers, take the set of elements $$ax+by$$
         where $$x$$ and $$y$$ are rational numbers, and $$ax+by > 0$$.
         Can we define "$$\gcd(a,b)$$" to be the smallest element of that set?
         Why or why not? Explain.
+    
+    2.  Why does gcd of integers work? How does the Well Ordering Principle help?
+    
+
 
 ##  Additional assignments, required
 
