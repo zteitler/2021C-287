@@ -166,8 +166,17 @@ or if they were on the homework but you haven't done that problem yet.
         Can we define "$$\gcd(a,b)$$" to be the smallest element of that set?
         Why or why not? Explain.
 
+##  Additional assignments, required
+
+These items are assigned. Please do them!
+But you do not have to turn in anything.
+These items will not be graded.
 
 +   Read Chapter 3 and Chapter 4 of the textbook.
+
++   Visit [Detexify](https://detexify.kirelabs.org/).
+    Try entering some symbols such as integral, partial derivative,
+    or square root to see how to type them in LaTeX.
 
 ## Instructions
 
@@ -188,7 +197,9 @@ To summarize:
 You are encouraged to work together on the homework!
 
 
-## Additional reading
+## Additional reading, optional
+
+These readings are optional (not required).
 
 +   [A Guide to Writing Mathematics](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
     (Warning, this is 17 pages long! You might want to read just a little bit at a time.)
