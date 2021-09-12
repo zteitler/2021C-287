@@ -83,14 +83,21 @@ Change "your name" in the `author` line to be your name.
     The purpose here is to learn and practice induction proofs.
     
     **LaTeX:** Observe:
-    +   The math symbol for a multiplication dot is `\cdot`, $$\cdot$$.
+    +   The math symbol for a multiplication dot is `\cdot`, $$\cdot$$, as in $$3 \cdot 4^{k+2}$$.
         This makes a "centered dot" (the "c" is for "centered").
         
     +   Observe that we used braces, `{...}`, to group together the power
         `4^{k+2}`, $$4^{k+2}$$.
         When you need to type a power like $$4^{k+2}$$, $$10^{k+1}$$, $$4^{k+3}$$, etc.,
         with more than just one number or letter in the power,
-        use the braces (`4^{k+2}`, `10^{k+1}1`, `4^{k+3}`, etc).
+        use the braces (`4^{k+2}`, `10^{k+1}`, `4^{k+3}`, etc).
+        
+        If you forget to use braces and you type `4^k+2`, `10^k+1`, `4^k+3`,
+        then you will get: $$4^k+2$$, $$10^k+1$$, $$4^k+3$$.
+        
+        The same thing happens for multi-digit powers.
+        Correct is `2^{10}=1024`, $$2^{10}=1024$$.
+        Incorrect is `2^10=1024`, $$2^10=1024$$.
 
 3.  **Project 4.9.**
     
@@ -110,8 +117,15 @@ Change "your name" in the `author` line to be your name.
 4.  Find $$\sum_{j=0}^k f_j$$, where the $$f_j$$ are Fibonacci numbers as defined in the textbook.
     Prove your answer.
     
+    Your answer will have a clear statement: $$\sum_{j=0}^k f_j =$$ (your answer).
+    Then, a proof of your answer.
+    
     **Hint:** Try $$\sum_{j=0}^k f_j$$ for several values of $$k$$
     (e.g., $$k=1,2,3,\dotsc,6,\dotsc$$). Look for a pattern.
+    This is "experimental mathematics", where you try some things,
+    gather data, and look for a pattern!
+    
+    For your proof, use induction.
     
     **LaTeX:** A summation symbol is typed with `\sum`, $$\sum$$.
     We use a subscript to show the starting point of the summation:
