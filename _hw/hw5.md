@@ -114,10 +114,12 @@ Change "your name" in the `author` line to be your name.
     and \[ \int x^n \, dx = \frac{1}{n+1} x^{n+1} + C . \]
     
     My favorite big equation is
-    \begin{equation*} ... \end{equation*}
+    \[ ... \]
+    \end{answer}
     ```
     
     **Fill in two of your favorite equations (or formulas)!**
+    Delete the `...`'s and replace them with your equations/formulas.
     
     (You won't be graded on which equations/formulas you choose, as long as you manage to show
     an inline equation/formula and a display equation/formula.)
