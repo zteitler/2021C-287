@@ -316,7 +316,7 @@ or if there's anything you think I should know.
 | Friday | 10/29 | Last day to drop with a W or completely withdraw |
 |        | 11/22-28 | Thanksgiving Holiday. No classes. |
 | Friday | 12/10 | Last day of instruction for regular classes |
-| Wednesday | 12/13 | Final Exam, 12:00 p.m.-2:00 p.m. |
+| Monday | 12/13 | Final Exam, 12:00 p.m.-2:00 p.m. |
 | Tuesday | 12/21 | Grades due. (You will be able to see your grade by this date.) |
 
 
