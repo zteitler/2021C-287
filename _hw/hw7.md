@@ -101,7 +101,7 @@ Change "your name" in the `author` line to be your name.
     f_n = \begin{cases}
       0, & \text{if $n=0$}, \\
       1, & \text{if $n=1$}, \\
-      f_{n-1} + f{n-2} & \text{otherwise}
+      f_{n-1} + f_{n-2} & \text{otherwise}
     \end{cases}
     $$
 
@@ -169,6 +169,7 @@ ICYMI (In Case You Missed It): repeating some links from previous assignments
 +   Check out summer [Research Experiences for Undergraduates (REUs)](https://www.ams.org/programs/students/emp-reu)
 
 +   More [student resources and information](https://www.maa.org/member-communities/students)
+
 +   Visit the Math Department's [research page](https://www.boisestate.edu/math/research/).
     Especially, take a look at the Math Department Colloquium (you are welcome to come to the talks!)
     and at the senior thesis projects posted in the Senior Showcase.
