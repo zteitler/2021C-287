@@ -94,8 +94,38 @@ Change "your name" in the `author` line to be your name.
     \end{cases}
     $$
     
+    And one more.
+    Adding text in equations is useful for showing explanations alongside steps of a calculation.
+    For example:
     
-    **Exercise:** Explain how to type the definition of the Fibonacci numbers:
+    ```
+    \begin{split}
+    \sum_{j=0}^{n+1} f_j^2 &= \left( \sum_{j=0}^n f_j^2 \right) + f_{n+1}^2 \\
+      &= ( f_n f_{n+1} ) + f_{n+1}^2 \qquad \text{by induction} \\
+      &= f_{n+1}(f_n + f_{n+1}) \qquad \text{pulling out a common factor} \\
+      &= f_{n+1} f_{n+2} \qquad \text{by the recursive definition of Fibonacci numbers} \\
+    \end{split}
+    ```
+    
+    $$
+    \begin{split}
+    \sum_{j=0}^{n+1} f_j^2 &= \left( \sum_{j=0}^n f_j^2 \right) + f_{n+1}^2 \\
+      &= ( f_n f_{n+1} ) + f_{n+1}^2 \qquad \text{by induction} \\
+      &= f_{n+1}(f_n + f_{n+1}) \qquad \text{pulling out a common factor} \\
+      &= f_{n+1} f_{n+2} \qquad \text{by the recursion of Fibonacci numbers} \\
+    \end{split}
+    $$
+    
+    Notice:
+    
+    + The text doesn't line up. This can be fixed, but it's a story for another day.
+    
+    + It's not very good for long texts
+    
+    + This should be used sparingly (only a little bit).
+      Most teachers will want you to write sentences for most steps of your proofs.
+    
+    **Exercise:** Type in this definition of the Fibonacci numbers:
     
     $$
     f_n = \begin{cases}
@@ -104,12 +134,42 @@ Change "your name" in the `author` line to be your name.
       f_{n-1} + f_{n-2} & \text{otherwise}
     \end{cases}
     $$
+    
+    (The exercise is to figure out the LaTeX code to make this equation.)
 
 2.  **Proposition 8.18**
 
 
 3.  **Proposition 8.32**
-
+    
+    Prove all four of the statements listed in the Proposition.
+    
+    Suggestion: Set up your work like
+    
+    ```
+    \begin{claim}
+    If $$x < y$$ then...
+    \end{claim}
+    \begin{proof}
+    (Your proof)
+    \end{proof}
+    
+    \begin{claim}
+    If $$x<y$$ and $$z<w$$ then...
+    \end{claim}
+    \begin{proof}
+    (Your proof)
+    \end{proof}
+    
+    ...
+    ```
+    
+    and so on, listing each claim along with its proof.
+    
+    For some of these proofs you might use the method shown above
+    to write a text reason (such as "Axiom 8.2") next to steps
+    in a multi-step calculation.
+    
     
 4.  **Proposition 8.53**  
     Hint: If $$M$$ is a lower bound for $$A$$, then
