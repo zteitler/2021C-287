@@ -188,6 +188,10 @@ Change "your name" in the `author` line to be your name.
     
     LaTeX: The composition sign is made with `\circ`,
     for example `$g \circ f$` makes $$g \circ f$$.
+    
+    **Note:** A proof for this was given in class.
+    For the homework assignment you can find a proof yourself,
+    or you can rewrite and explain the class proof in your own words.
 
 
 
