@@ -101,19 +101,10 @@ and including your name.)
     is on the same key as the backslash `\`, above the return/enter key, on most keyboards.
 
 
-3.  **Proposition 10.8 part (v)**, plus the converse. Specifically:
+3.  **Claim:** $$-y < x < y$$ if and only if $$\lvert x \rvert < y$$.
     
-    1.  Prove Proposition 10.8(v) the way it's stated in the textbook.
-    
-    2.  Is the converse true? The converse is:
-        
-        *If $$\lvert x\rvert < \lvert y\rvert$$ then $$-y < x < y$$.*
-        
-        Prove or give a counterexample.
-    
-    3.  Prove this modification of the converse:
-        
-        *Suppose $$y > 0$$. If $$\lvert x \rvert < \lvert y \rvert$$ then $$-y < x < y$$.*
+    Prove the claim.
+    (This is a slightly modified version of Proposition 10.8(v) in the textbook.)
     
     Hint: Consider cases depending on whether $$x \geq 0$$ or $$x < 0$$.
 
